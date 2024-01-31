@@ -1,0 +1,15 @@
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/bin/Debug/net7.0/3_1_interfejsy
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/bin/Debug/net7.0/3_1_interfejsy.deps.json
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/bin/Debug/net7.0/3_1_interfejsy.runtimeconfig.json
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/bin/Debug/net7.0/3_1_interfejsy.dll
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/bin/Debug/net7.0/3_1_interfejsy.pdb
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.csproj.AssemblyReference.cache
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.AssemblyInfoInputs.cache
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.AssemblyInfo.cs
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.csproj.CoreCompileInputs.cache
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.dll
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/refint/3_1_interfejsy.dll
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.pdb
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/3_1_interfejsy.genruntimeconfig.cache
+/Users/adrianc/Projects/3_1_interfejsy/3_1_interfejsy/obj/Debug/net7.0/ref/3_1_interfejsy.dll
